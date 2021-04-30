@@ -29,7 +29,7 @@ My name is Bao Pham Luong. I'm a student in Computer Science major.
   +  📫 [<img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>](https://www.facebook.com/TDung2116/): [Dung Tri](https://www.facebook.com/TDung2116/)
   +  📫 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](luongphambao1901@gmail.com): [19521242@gm.uit.edu.vn](mailto:19521242@gm.uit.edu.vn) or [luongphambao1901@gmail.com](mailto:luongphambao1901@gmail.com)   
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=19521242baog&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=19521242bao&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=19521242bao)  
 
