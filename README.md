@@ -1,5 +1,4 @@
 <!--
-**BTrDung/BTrDung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -19,9 +18,9 @@ Here are some ideas to get you started:
   +  📫 : [19521242@gm.uit.edu.vn](mailto:19521242@gm.uit.edu.vn) or [luongphambao1901@gmail.com](mailto:luongphambao19011@gmail.com)   
 -->
 
-### Welcome - Bienvenue - Herzlich willkommen 👋👋👋   
 
-My name is Bao Pham Luong. I'm a student in Computer Science major.   
+
+My name is Bao Luong Pham. I'm a student in Computer Science major.   
 - 🌱 I have experiences with ```C++``` ```Python``` ```Javascript``` ```Nodejs``` ```React JS```       
 - 🌱 I’m currently learning Computer Science at [University of Information Technology - Vietnam National University (UIT - VNU-HCM)](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology)   
 - 🌱 I have basic knowledge in ```Web Development``` `Object-Oriented Programming` ```Machine learning``` ```Natural Language Processing```     
